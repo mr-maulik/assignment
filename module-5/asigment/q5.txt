@@ -1,0 +1,5 @@
+q5.What do you understand By Data Redundancy?
+
+Data redundancy refers to the duplication of data within a database or across multiple databases or data sources. It occurs when the same piece of data is stored multiple times in different locations or tables. In other words, redundant data means having copies or repetitions of the same information.
+
+Data redundancy refers to the duplication of data within a database or across multiple databases or data sources. It occurs when the same piece of data is stored multiple times in different locations or tables. In other words, redundant data means having copies or repetitions of the same information.

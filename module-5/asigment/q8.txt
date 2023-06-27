@@ -1,0 +1,12 @@
+q8. What is SQL Key Constraints writing an Example of SQL Key Constraints?
+
+SQL key constraints are used to ensure the integrity of the data in a table by enforcing certain rules or requirements on the values that are stored in specific columns.
+
+Exapmle:
+
+CREATE TABLE Customers (
+   CustomerID INT PRIMARY KEY,
+   FirstName VARCHAR(50),
+   LastName VARCHAR(50),
+   Email VARCHAR(100)
+);

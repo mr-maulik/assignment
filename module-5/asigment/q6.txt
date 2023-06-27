@@ -1,0 +1,4 @@
+q.6 What is DDL Interpriter?
+
+DDL stand for DATA DAINATION LANGUAG
+In practice, databases typically provide their own query interfaces or command-line tools that allow users to execute DDL statements directly against the database system. These tools handle the interpretation and execution of the DDL statements internally.

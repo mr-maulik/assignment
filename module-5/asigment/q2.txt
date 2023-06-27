@@ -1,0 +1,3 @@
+2. what is Normalization?
+
+->Normalization is a process in database design that involves organizing data into well-structured tables to minimize redundancy and dependency, improve data integrity, and optimize data storage and retrieval. The objective of normalization is to eliminate data anomalies and ensure that each piece of data is stored in only one place, thereby reducing redundancy and maintaining data consistency.

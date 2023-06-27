@@ -1,0 +1,7 @@
+What is a svae point? How to create save point Write a query
+
+A savepoint is a way of implementing subtransactions (also known as nested transactions) within a relational database management system by indicating a point within a transaction that can be "rolled back to" without affecting any work done in the transaction before the savepoint was created.
+
+Query:
+
+SAVEPOINT coder;

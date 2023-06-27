@@ -1,0 +1,10 @@
+q3. What are deffernce between dbms and rdbms?
+
+<-DBMS->
+1-DBMS supports various data models such as hierarchical, network, and relational, but it doesn't necessarily enforce the relational model.
+2-DBMS may or may not enforce referential integrity, meaning it does not guarantee the consistency and accuracy of data relationships.
+3-DBMS may or may not support normalization techniques to eliminate data redundancy and anomalies.
+
+<-RDBMS->
+1-RDBMS strictly follows the relational model, where data is organized into tables with predefined relationships between them.
+2-RDBMS enforces referential integrity through the use of foreign key constraints, ensuring the validity of relationships between tables.

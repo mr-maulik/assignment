@@ -1,0 +1,3 @@
+q1. what do you undarstand by database?
+
+->A database is a structured collection of data organized and stored in a systematic manner to facilitate efficient data management, retrieval, and manipulation. It serves as a central repository for storing and managing vast amounts of information, ranging from simple text to complex multimedia files. Databases are designed to provide a reliable, secure, and scalable way to store and retrieve data for various applications and users.
